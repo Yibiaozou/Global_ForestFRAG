@@ -1,3 +1,3 @@
-This folder contains code for preprocessing raw remote sensing tree cover product using Euler Cluster. 
+This folder contains code for preprocessing raw remote sensing tree cover product using Euler Cluster of ETH Zurich. 
 The tree cover data were downloaded from "https://glad.umd.edu/users/Potapov/GLCLUC2020/Forest_extent_2000/" and "https://glad.umd.edu/users/Potapov/GLCLUC2020/Forest_extent_2020/".
 The code compute fragmentation metrics within 5km resolution grid cells (the resolution can be adjusted).
